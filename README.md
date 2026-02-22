@@ -103,37 +103,155 @@ Recent AI & ML Engineering graduate with strong skills in **Python, SQL, Excel, 
 
 ### 📜 Certifications
 
-| Certification | Issuing Organization |
-| :--- | :--- |
-| **Data Analysis Using Python** | IBM |
-| **Data Science & Analytics** | hp LIFE |
-| **SQL (Basic)** | HackerRank |
-| **Python Course** | SCALER |
-| **Programming Foundation: Data Structures** | LinkedIn |
-| **MS Excel Course** | Learn Vern |
+<p align="left">
+  <img src="https://img.shields.io/badge/IBM-Data_Analysis_Using_Python-FF6F61?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/hp%20LIFE-Data%20Science%20%26%20Analytics-36BCF7?style=for-the-badge&logo=hp&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HackerRank-SQL%20(Basic)-A259FF?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SCALER-Python%20Course-FFB347?style=for-the-badge&logo=scaler&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-Data%20Structures-00C8B4?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Learn%20Vern-MS%20Excel%20Course-FF9A8B?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
 ---
 
 ### 🎓 Education
 
 **Bachelor of Engineering (B.E.) in Artificial Intelligence and Machine Learning** (2025)  
+*Savitribai Phule Pune University*  
 *CGPA: 7.85*
 
 ---
 
-### 📊 GitHub Stats
+### 📂 My Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhWalde&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhWalde&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhWalde&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaurabhWalde&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Financial Sales Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Financial_Sales_Dashboard" target="_blank">
+            <img src="https://img.shields.io/badge/📊-Repository-FF6F61?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Interactive Power BI dashboard analyzing financial sales data across regions, products, and sales representatives.</p>
+        <p align="center"><strong>Tech: Power BI • Excel • DAX</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">E-Commerce SQL Analysis</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/E-Commerce-SQL-Analysis" target="_blank">
+            <img src="https://img.shields.io/badge/🗄️-Repository-4479A1?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">In-depth analysis of e-commerce data using complex SQL queries, joins, and aggregations.</p>
+        <p align="center"><strong>Tech: PostgreSQL • MySQL • SQL</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Titanic Dataset EDA</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Titanic_Dataset_EDA" target="_blank">
+            <img src="https://img.shields.io/badge/📈-Repository-3776AB?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Exploratory Data Analysis on Titanic dataset with visualizations and insights.</p>
+        <p align="center"><strong>Tech: Python • Pandas • Matplotlib • Seaborn</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Superstore Sales Dashboard</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Superstore_Sales_Dashboard" target="_blank">
+            <img src="https://img.shields.io/badge/📉-Repository-F2C811?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Interactive dashboard visualizing Superstore sales data for business insights.</p>
+        <p align="center"><strong>Tech: Power BI • Data Visualization</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Data Visualization Project</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Data_Visualization_Project" target="_blank">
+            <img src="https://img.shields.io/badge/📊-Repository-3F4F75?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Visual dashboards with Superstore.csv to extract actionable business insights using Power BI.</p>
+        <p align="center"><strong>Tech: Power BI • Excel</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Data Cleaning Project</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Data_Cleaning_Project" target="_blank">
+            <img src="https://img.shields.io/badge/🧹-Repository-150458?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Mall Customer Segmentation Data Cleaning and Preprocessing.</p>
+        <p align="center"><strong>Tech: Python • Pandas • NumPy</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ElevateLab Projects</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/ElevateLab_Projects" target="_blank">
+            <img src="https://img.shields.io/badge/💼-Repository-FF6F00?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Collection of projects completed during ElevateLab internship.</p>
+        <p align="center"><strong>Tech: Jupyter Notebook • Python</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Sales Analytics Project</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Sales_Analytics_Project" target="_blank">
+            <img src="https://img.shields.io/badge/📊-Repository-217346?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Comprehensive sales analytics with trend analysis and insights.</p>
+        <p align="center"><strong>Tech: Python • Jupyter • Pandas</strong></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Sales Trend Analysis</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/sales-trend-analysis-" target="_blank">
+            <img src="https://img.shields.io/badge/📈-Repository-003B57?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Sales Trend Analysis Using Aggregations for business insights.</p>
+        <p align="center"><strong>Tech: SQL • Python</strong></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Chatbot Saurabh</h3>
+        <p align="center">
+          <a href="https://github.com/SaurabhWalde/Chatbot_Saurabh" target="_blank">
+            <img src="https://img.shields.io/badge/🤖-Repository-000000?style=for-the-badge" />
+          </a>
+        </p>
+        <p align="center">Interactive chatbot project showcasing NLP capabilities.</p>
+        <p align="center"><strong>Tech: Python • NLP • NLTK</strong></p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
